@@ -1,0 +1,15 @@
+.dash-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.categories-option {
+    display: flex;
+}
+.filter-option {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.category-selection {
+    margin-right: 54px;
+}
